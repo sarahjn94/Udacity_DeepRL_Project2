@@ -69,4 +69,4 @@ The environment is considered solved, when the average (over 100 episodes) of th
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!
 
 To just run my implementation, run the last code block.
-Ensure that the Continuous_Control.ipynb is in the same directory as Reacher.exe and ddpg_agent.py and model.py so that you do not need to change any file paths in the code.
+Ensure that the Continuous_Control.ipynb is in the same directory as Reacher.exe and ddpg_agent.py and model.py so that you do not need to change any file paths in the code. My code solves option 2.
