@@ -5,6 +5,7 @@
 ### Learning Algorithm
 
 For this Continuous Control project, the implementation used a deep deterministic policy gradient (DDPG) learning algorithm.
+
 	- Actor-Critic architecture
 		- Both had local and target network with soft updates on target network
 		- Input layer of size 33
